@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.12.0"
   }
 }
